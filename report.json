@@ -1,0 +1,378 @@
+{
+    "Achromobacter": {
+        "Xylosoxidans": 14
+    },
+    "Acinetobacter": {
+        "Baumannii": 40,
+        "Lwoffii": 8,
+        "Pittii": 8
+    },
+    "Aeromonas": {
+        "Hydrophila": 36,
+        "Veronii": 4
+    },
+    "Alcaligenes": {
+        "Faecalis": 12
+    },
+    "Alkalihalobacillus": {
+        "Clausii": 22,
+        "Halodurans": 36,
+        "Okuhidensis": 12
+    },
+    "Allofrancisella": {
+        "Guangzhouensis": 12
+    },
+    "Bacillus": {
+        "Alveayuensis": 12,
+        "Aminovorans": 24,
+        "Badius": 21,
+        "Ectoiniformans": 20,
+        "Gobiensis": 12,
+        "Group": 641,
+        "Infantis": 12,
+        "Spp": 12,
+        "Taeanensis": 12,
+        "Zeae": 12
+    },
+    "Bacteroides": {
+        "Fragilis": 4
+    },
+    "Bartonella": {
+        "Arupensis": 12,
+        "Bacilliformis": 12,
+        "Grahamii": 12,
+        "Henselae": 36,
+        "Quintana": 12
+    },
+    "Brevibacillus": {
+        "Parabrevis": 8,
+        "Porteri": 16,
+        "Sp": 40
+    },
+    "Brucella": {
+        "Abortus": 145,
+        "Canis": 48,
+        "Ceti": 60,
+        "Inopinata": 6,
+        "Intermedia": 12,
+        "Melitensis": 122,
+        "Microtii": 12,
+        "Neotomae": 42,
+        "Ovis": 45,
+        "Pinnipedalis": 54,
+        "Sp": 102,
+        "Suis": 96,
+        "Vulpis": 12
+    },
+    "Burkholderia": {
+        "Ambifaria": 16,
+        "Anthina": 11,
+        "Arboris": 16,
+        "Cenocepacia": 42,
+        "Cepacia": 29,
+        "Contaminans": 235,
+        "Diffusa": 24,
+        "Dolosa": 12,
+        "Gladioli": 12,
+        "Glumae": 6,
+        "Lata": 28,
+        "Latens": 12,
+        "Mallei": 163,
+        "Metallica": 16,
+        "Multivorans": 20,
+        "Oklahomensis": 18,
+        "Plantarii": 6,
+        "Pseudomallei": 67,
+        "Pseudomultivorans": 33,
+        "Puraquae": 112,
+        "Pyrrocinia": 20,
+        "Seminalis": 6,
+        "Stabilis": 27,
+        "Stagnalis": 23,
+        "Territorii": 23,
+        "Thailandensis": 71,
+        "Ubonensis": 15,
+        "Vietnamiensis": 14
+    },
+    "Caballeronia": {
+        "Glathei": 12
+    },
+    "Campylobacter": {
+        "Jejuni": 10
+    },
+    "Citrobacter": {
+        "Amalonaticus": 26,
+        "Freundii": 26,
+        "Koseri": 18
+    },
+    "Corynebacterium": {
+        "Amycolatum": 14,
+        "Diphtheriae": 12,
+        "Pseudotuberculosis": 4,
+        "Ulcerans": 4
+    },
+    "Cronobacter": {
+        "Sakazakii": 2
+    },
+    "Cutibacterium": {
+        "Acnes": 4
+    },
+    "Cytobacillus": {
+        "Firmus": 22,
+        "Horneckiae": 26
+    },
+    "Edwardsiella": {
+        "Tarda": 2
+    },
+    "Enterobacter": {
+        "Cloacae": 34,
+        "Hormaechei": 12
+    },
+    "Enterococcus": {
+        "Casseliflavus": 3,
+        "Durans": 3,
+        "Faecalis": 30,
+        "Faecium": 333,
+        "Gallinarum": 3,
+        "Hirae": 6
+    },
+    "Erwinia": {
+        "Amylovora": 12
+    },
+    "Escherichia": {
+        "Coli": 60
+    },
+    "Evansella": {
+        "Clarkii": 24
+    },
+    "Francisella": {
+        "Hispaniensis": 12,
+        "Holarctica": 70,
+        "Mediasiatica": 18,
+        "Noatunensis": 6,
+        "Novicida": 20,
+        "Orientalis": 12,
+        "Philomiragia": 4,
+        "Tularensis": 6
+    },
+    "Glutamicibacter": {
+        "Nicotianae": 3
+    },
+    "Haemophilus": {
+        "Influenzae": 4
+    },
+    "Hafnia": {
+        "Alvei": 1
+    },
+    "Heyndrickxia": {
+        "Sporothermodurans": 12
+    },
+    "Inquilinus": {
+        "Limosus": 5
+    },
+    "Klebsiella": {
+        "Aerogenes": 26,
+        "Michiganensis": 30,
+        "Oxytoca": 20,
+        "Pneumoniae": 11,
+        "Quasipneumoniae": 8
+    },
+    "Kocuria": {
+        "Palustris": 14
+    },
+    "Leclercia": {
+        "Adecarboxylata": 4
+    },
+    "Lederbergia": {
+        "Lenta": 28
+    },
+    "Lysinibacillus": {
+        "Endophyticus": 12,
+        "Fusiformis": 29,
+        "Macroides": 16,
+        "Pakistanensis": 16,
+        "Sp": 12,
+        "Sphaericus": 29,
+        "Xylanilyticus": 12
+    },
+    "Micrococcus": {
+        "Luteus": 21
+    },
+    "Moraxella": {
+        "Catarrhalis": 8
+    },
+    "Morganella": {
+        "Morganii": 8,
+        "Sibonii": 8
+    },
+    "Neisseria": {
+        "Gonorrhoeae": 8,
+        "Meningitidis": 4
+    },
+    "Neobacillus": {
+        "Bataviensis": 12,
+        "Cucumis": 16
+    },
+    "Niallia": {
+        "Circulans": 14
+    },
+    "Ochrobactrum": {
+        "Anthropi": 14
+    },
+    "Oligella": {
+        "Urethralis": 6
+    },
+    "Paenibacillus": {
+        "Alvei": 5,
+        "Polymyxa": 18
+    },
+    "Pandoraea": {
+        "Apista": 4,
+        "Pnomenusa": 5,
+        "Pulmonicola": 5
+    },
+    "Pantoea": {
+        "Agglomerans": 8
+    },
+    "Paraburkholderia": {
+        "Caledonica": 6,
+        "Caribensis": 6,
+        "Hospita": 6,
+        "Kururiensis": 4,
+        "Phymatum": 3,
+        "Phytofirmans": 3,
+        "Tuberum": 3,
+        "Xenovorans": 3
+    },
+    "Paracoccus": {
+        "Yeei": 18
+    },
+    "Peribacillus": {
+        "Muralis": 12,
+        "Psychrosaccharolyticus": 12,
+        "Simplex": 20
+    },
+    "Pluralibacter": {
+        "Gergoviae": 2
+    },
+    "Priestia": {
+        "Endophytica": 24,
+        "Flexa": 36,
+        "Megaterium": 55
+    },
+    "Proteus": {
+        "Mirabilis": 12,
+        "Vulgaris": 12
+    },
+    "Providencia": {
+        "Rettgeri": 12,
+        "Stuartii": 14
+    },
+    "Pseudomonas": {
+        "Aeruginosa": 58,
+        "Chlororaphis": 18,
+        "Putida": 44,
+        "Stutzeri": 4
+    },
+    "Ralstonia": {
+        "Insidiosa": 18,
+        "Mannitolilytica": 12,
+        "Pickettii": 8
+    },
+    "Roseomonas": {
+        "Gilardii": 4
+    },
+    "Rothia": {
+        "Kristinae": 3
+    },
+    "Salibacterium": {
+        "Salarium": 12
+    },
+    "Salmonella": {
+        "Enterica": 10
+    },
+    "Serratia": {
+        "Grimesii": 2,
+        "Marcescens": 22
+    },
+    "Shigella": {
+        "Boydii": 6,
+        "Dysenteriae": 8,
+        "Flexneri": 6,
+        "Sonnei": 12
+    },
+    "Sinomonas": {
+        "Atrocyanea": 2
+    },
+    "Sphingomonas": {
+        "Paucimobilis": 16
+    },
+    "Staphylococcus": {
+        "Aureus": 225,
+        "Capitis": 12,
+        "Delphini": 6,
+        "Epidermidis": 44,
+        "Haemolyticus": 9,
+        "Hominis": 44,
+        "Intermedius": 6,
+        "Lugdunensis": 40,
+        "Pseudintermedius": 4
+    },
+    "Stenotrophomonas": {
+        "Maltophilia": 26,
+        "Rhizophila": 14
+    },
+    "Streptococcus": {
+        "Agalactiae": 8,
+        "Dysgalactiae": 12,
+        "Mitis": 4,
+        "Parasanguinis": 12,
+        "Pneumoniae": 24,
+        "Pyogenes": 30,
+        "Salivarius": 35,
+        "Sanguinis": 8
+    },
+    "Sutcliffiella": {
+        "Cohnii": 36
+    },
+    "Vibrio": {
+        "Alginolyticus": 12,
+        "Cholerae": 218,
+        "Diazotrophicus": 4,
+        "Harveyi": 11,
+        "Metschnikovii": 16,
+        "Mimicus": 9,
+        "Parahaemolyticus": 13,
+        "Vulnificus": 10
+    },
+    "Virgibacillus": {
+        "Pantothenticus": 5
+    },
+    "Weizmannia": {
+        "Coagulans": 60
+    },
+    "Xenophilus": {
+        "Sp": 2
+    },
+    "Yersinia": {
+        "Aldovae": 6,
+        "Aleksiciae": 6,
+        "Bercovieri": 3,
+        "Enterocolitica": 172,
+        "Entomophaga": 12,
+        "Frederiksenii": 8,
+        "Intermedia": 11,
+        "Kristensenii": 9,
+        "Massiliensis": 12,
+        "Mollaretii": 6,
+        "Nurmii": 12,
+        "Pekkanenii": 12,
+        "Pestis": 71,
+        "Pseudotuberculosis": 73,
+        "Rohdei": 3,
+        "Ruckeri": 27,
+        "Similis": 27,
+        "Sp": 12,
+        "Wautersii": 12
+    }
+}
